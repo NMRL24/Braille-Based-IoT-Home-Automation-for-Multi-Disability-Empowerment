@@ -83,10 +83,9 @@ Unlike traditional systems that depend on screens or voice commands, this soluti
 ---
 
 # 👨‍💻 **TEAM DETAILS** ⭐
-> ⚠️ *(Highlight Section — Important for GitHub)*
 
 ### 🧑‍🎓 Project Members:
-- **N. Manikanta Raghava**  
+- ****N. Manikanta Raghava****  (Team Lead)
 - **M. Jahnavi**  
 - **N. Venkata Siva Prasanth**  
 - **Md. Habeeb Pasha**  
