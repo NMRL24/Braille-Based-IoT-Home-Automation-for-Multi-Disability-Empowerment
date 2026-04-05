@@ -1,6 +1,6 @@
 # 🏠 Braille-Based IoT Home Automation  
 ### ♿ Empowering Multi-Disability Accessibility
-https://github.com/NMRL24/Braille-Based-IoT-Home-Automation-for-Multi-Disability-Empowerment/blob/main/ijert_journal_publishing/PUBLISHED/braille-based-iot-home-automation-system-for-visually-impaired-users-using-esp32-microcontroller-IJERTV15IS030861.pdf
+https://www.ijert.org/research/braille-based-iot-home-automation-system-for-visually-impaired-users-using-esp32-microcontroller-IJERTV15IS030861.pdf
 ---
 
 ## 📌 Project Overview
