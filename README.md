@@ -2,7 +2,24 @@
 ### ♿ Empowering Multi-Disability Accessibility
 https://www.ijert.org/research/braille-based-iot-home-automation-system-for-visually-impaired-users-using-esp32-microcontroller-IJERTV15IS030861.pdf
 ---
+# 👨‍💻 **TEAM DETAILS** ⭐
 
+### 🧑‍🎓 Project Members:
+- ****N. Manikanta Raghava****  (Team Lead)
+- **M. Jahnavi**  
+- **N. Venkata Siva Prasanth**  
+- **Md. Habeeb Pasha**  
+
+### 🎓 Course:
+**B.Tech – Electronics and Communication Engineering**
+
+### 🏫 Institution:
+**Seshadri Rao Gudlavalleru Engineering College**  
+(Affiliated to JNTU Kakinada)
+
+### 👨‍🏫 Project Guide:
+**Mr. V. Vittal Reddy**  
+*(Associate Professor, ECE Department)*  
 ## 📌 Project Overview
 This project presents an **assistive smart home system** designed for **visually impaired users**, enabling them to control home appliances using a **Braille-based tactile interface**.
 
@@ -79,32 +96,6 @@ Unlike traditional systems that depend on screens or voice commands, this soluti
 - Braille-to-voice conversion  
 - AI-based automation  
 - Mobile accessibility enhancements  
-
----
-
-# 👨‍💻 **TEAM DETAILS** ⭐
-
-### 🧑‍🎓 Project Members:
-- ****N. Manikanta Raghava****  (Team Lead)
-- **M. Jahnavi**  
-- **N. Venkata Siva Prasanth**  
-- **Md. Habeeb Pasha**  
-
-### 🎓 Course:
-**B.Tech – Electronics and Communication Engineering**
-
-### 🏫 Institution:
-**Seshadri Rao Gudlavalleru Engineering College**  
-(Affiliated to JNTU Kakinada)
-
-### 👨‍🏫 Project Guide:
-**Mr. V. Vittal Reddy**  
-*(Associate Professor, ECE Department)*  
-
----
-
-## 📜 License
-This project is developed for **academic and research purposes only**.
 
 ---
 
