@@ -1,5 +1,5 @@
 /*
- * BRAILLE HOME AUTOMATION - REMOTE MODULE (UPDATED)
+ * BRAILLE HOME AUTOMATION - BRAILLE KEYPAD MODULE (UPDATED)
  * - Emergency Logic:
  *   - Long press BOTH sensors = Send "ACK" (Confirm)
  *   - Long press ONE sensor   = Send "STOP" (False Alarm)
